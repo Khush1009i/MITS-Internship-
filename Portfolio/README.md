@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Preview](https://placehold.co/600x320/png?text=Modern+Portfolio+Website+Preview "A sleek modern portfolio website featuring a clean, responsive layout with elegant typography and subtle animations")
+![Portfolio Preview](https://github.com/Khush1009i/MITS-Internship-Remote/blob/13e9c116330c96e5c1b8f3417c2cf8f3d167ca10/Project%20Screenshot/Portfolio-Project.png "A sleek modern portfolio website featuring a clean, responsive layout with elegant typography and subtle animations")
 
 ---
 
